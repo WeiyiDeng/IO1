@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.R
+!*.sql
+!*.m
+!*/ 
+.httr-oauth
